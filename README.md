@@ -19,5 +19,5 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 # Training Target: Reservoir Storage Volume (ac-ft)
 ![alt text](https://github.com/zherbz/EncoderDecoder/blob/master/SV.pdf)
 
-# Training Features: Reservoir Storage Volume (ac-ft)
+# Training Features: Snow Water Equivalent (in)
 ![alt text](https://github.com/zherbz/EncoderDecoder/blob/master/SWE.pdf)
