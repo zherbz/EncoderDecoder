@@ -8,6 +8,7 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 # Dependencies
 * Python 3
 * Climata
+* Tensorflow
 * Matplotlib
 * Sklearn
 * Seaborn
