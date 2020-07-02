@@ -3,7 +3,8 @@ Multi-step reservoir forecasting approach based on a hybrid CNN-LSTM deep learni
 The proposed approach offers a three-month, weekly averaged prediction of reservoir storage volume based on historical snow water equivalent (SWE) during the runoff season from April through June each year. 
 
 # Network Architecture
-
+![zherbz](/Architecture.pdf)
+Format: ![Alt Text](url)
 # Dependencies
 
 # Datasets and Scripts
