@@ -3,7 +3,7 @@ Multi-step reservoir forecasting approach based on a hybrid CNN-LSTM deep learni
 The proposed approach offers a three-month, weekly averaged prediction of reservoir storage volume based on historical snow water equivalent (SWE) during the runoff season from April through June each year. 
 
 # Network Architecture
-![alt text](https://github.com/zherbz/EncoderDecoder/blob/master/Architecture.pdf)
+![Architecture](https://github.com/zherbz/EncoderDecoder/blob/master/Architecture.pdf)
 
 # Dependencies
 * Python 3
@@ -17,7 +17,7 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 * Numpy
 
 # Training Target: Reservoir Storage Volume (ac-ft)
-![alt text](https://github.com/zherbz/EncoderDecoder/blob/master/SV.pdf)
+![SV](https://github.com/zherbz/EncoderDecoder/blob/master/SV.pdf)
 
 # Training Features: Snow Water Equivalent (in)
 ![SWE](https://github.com/zherbz/EncoderDecoder/blob/master/SWE.pdf)
