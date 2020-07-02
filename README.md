@@ -4,6 +4,7 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 
 # Network Architecture
 ![alt text](https://github.com/zherbz/EncoderDecoder/blob/master/Architecture.pdf)
+
 # Dependencies
 * Python 3
 * Climata
@@ -15,3 +16,8 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 * Pandas
 * Numpy
 
+# Training Target: Reservoir Storage Volume (ac-ft)
+![alt text](https://github.com/zherbz/EncoderDecoder/blob/master/SV.pdf)
+
+# Training Features: Reservoir Storage Volume (ac-ft)
+![alt text](https://github.com/zherbz/EncoderDecoder/blob/master/SWE.pdf)
