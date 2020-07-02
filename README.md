@@ -15,4 +15,3 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 * Pandas
 * Numpy
 
-# Datasets and Scripts
