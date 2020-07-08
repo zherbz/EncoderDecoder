@@ -16,6 +16,9 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 * Pandas
 * Numpy
 
+# Site Map: Upper Stillwater Reservoir
+![Site Map](https://github.com/zherbz/EncoderDecoder/blob/master/Site%20Map.png)
+
 # Training Target: Reservoir Storage Volume (ac-ft)
 ![SV](https://github.com/zherbz/EncoderDecoder/blob/master/SV.png)
 
