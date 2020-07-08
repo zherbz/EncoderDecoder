@@ -17,6 +17,7 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 * Numpy
 
 # Site Map: Upper Stillwater Reservoir
+This study focuses on the Upper Stillwater reservoir located at the top of the Central Utah Water Conservancy District’s (CUWCD) collection system in the Uinta Mountains. CUWCD is one of Utah's four largest specialty water districts that provides potable and secondary water to various water associations, conservancy districts, irrigation companies, and local residents. It spans eight counties with over \$3.5 billion in infrastructure. There are currently ten lakes/reservoirs maintained and operated by CUWCD that house non-potable water in excess of 1.6 million ac-ft. The storage levels for these reservoirs act as a barometer for the state’s water resources and provide insight for how to appropriately prepare for future water usage. The figure below shows Upper Stillwater (located in the middle of the figure) surrounded by a network of snow telemetry monitoring sites.
 ![Site Map](https://github.com/zherbz/EncoderDecoder/blob/master/Site%20Map.png)
 
 # Training Target: Reservoir Storage Volume (ac-ft)
