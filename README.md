@@ -5,6 +5,8 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 # Network Architecture
 ![Architecture](https://github.com/zherbz/EncoderDecoder/blob/master/Architecture.png)
 
+![ResCNN](https://github.com/zherbz/EncoderDecoder/blob/master/ResCNN.png)
+
 # Dependencies
 * Python 3
 * Climata
