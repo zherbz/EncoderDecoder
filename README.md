@@ -5,6 +5,7 @@ The proposed approach offers a three-month, weekly averaged prediction of reserv
 # Network Architecture
 ![Architecture](https://github.com/zherbz/EncoderDecoder/blob/master/Architecture.png)
 
+# Residual CNN Encoder
 ![ResCNN](https://github.com/zherbz/EncoderDecoder/blob/master/ResCNN.png)
 
 # Dependencies
